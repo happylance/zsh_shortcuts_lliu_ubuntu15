@@ -1,3 +1,4 @@
+alias crone='crontab -e'
 alias cronl='crontab -l'
 alias ezs='vim ~/.zshrc'
 alias glgl='glg --author=Liang'
