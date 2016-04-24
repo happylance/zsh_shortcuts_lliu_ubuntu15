@@ -1,6 +1,7 @@
 alias aalf='less /var/log/apache2/access.log | grep -v 403'
 alias aal='less /var/log/apache2/access.log'
 alias anal='cat /var/log/apache2/next/access.log'
+alias aw='/home/ubuntu/software/ansiweather/ansiweather'
 alias bp='$HOME/dev/HTCBattery/checkBattery.sh | tee -a $HOME/logs/htc.log'
 alias crone='crontab -e'
 alias cronl='crontab -l'
